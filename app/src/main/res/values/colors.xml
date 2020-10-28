@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#BA68C8</color>
+    <color name="colorPrimaryDark">#9C27B0</color>
+    <color name="colorAccent">#3949AB</color>
+
+    <color name="text_black">#212121</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_shade">#FAFAFA</color>
+    <color name="text_gray_dark">#7b7d81</color>
+    <color name="snack_bar_success">#2A9100</color>
+    <color name="snack_bar_warning">#C8A209</color>
+    <color name="snack_bar_info">#2A7895</color>
+    <color name="snack_bar_failure">#C80909</color>
+
+</resources>
